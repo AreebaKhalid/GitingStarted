@@ -3,4 +3,4 @@
 #### A fun project to learn git as part of the **DevMarketer** community.
 
 ---
-Email me at [syedaareebakhalid@gmail.com](Mailto:syedaareebakhalid@gmail.com)
+Email me at [myemail@gmail.com](Mailto:myemail@gmail.com)
